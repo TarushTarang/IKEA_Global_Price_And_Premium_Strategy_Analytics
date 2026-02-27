@@ -42,4 +42,5 @@ This project analyzes IKEA’s global product catalog (94,225 products across 10
   * Adopt region-specific pricing strategies instead of uniform global pricing.
   * Maintain strong budget segment as engagement & traffic driver.
 
+## Dashboard Preview
 <img width="1202" height="786" alt="image" src="https://github.com/user-attachments/assets/374ef844-8cd9-4c27-b100-62ddfd0a74b8" />
